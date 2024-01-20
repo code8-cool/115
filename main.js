@@ -1,0 +1,1 @@
+<img id="show_image"></img>
